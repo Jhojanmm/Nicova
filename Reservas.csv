@@ -1,0 +1,7 @@
+IdReserva,IdCliente,IdHabitacion,TotalNoches,TotalPersonas,Tarifa,Observaciones,CheckIn,CheckOut,TipoPago
+1,1001235398,1,1,1,50000,Ninguna,martes, 17 de mayo de 2022,sábado, 4 de junio de 2022,Cancelado
+2,92636900,2,4,4,2000000,Ninguna,miércoles, 18 de mayo de 2022,miércoles, 18 de mayo de 2022,Cancelado
+3,1001235398,3,1,1,200000,Ninguna,miércoles, 18 de mayo de 2022,jueves, 19 de mayo de 2022,Cancelado
+4,1001235398,4,2,2,1200000,Tienen perro ,jueves, 2 de junio de 2022,sábado, 4 de junio de 2022,Cancelado
+5,1001235398,5,2,2,300000,Tienen perro,jueves, 2 de junio de 2022,sábado, 4 de junio de 2022,Cancelado
+6,1001235398,6,2,2,300000,Tienen perro ,jueves, 2 de junio de 2022,sábado, 4 de junio de 2022,Cancelado
